@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "dav4tbsync@jobisoft.de": {
+      "updates": [
+        { "version": "1.24.2",
+          "update_info_url": "https://github.com/jobisoft/DAV-4-TbSync/releases",
+          "update_link": "https://tbsync.jobisoft.de/beta/TB78/DAV-4-TbSync.xpi",
+          "applications": {
+            "gecko": { "strict_min_version": "78.0" } } }
+      ]
+    }
+  }
+}
