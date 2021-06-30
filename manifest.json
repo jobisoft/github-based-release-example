@@ -3,10 +3,10 @@
     "name": "permissions",
     "version": "1.1",
     "author": "John",
-    "update_url": "https://raw.githubusercontent.com/jobisoft/permission/main/update.json",
     "applications": {
         "gecko": {
             "id": "permissions@jobisoft.de",
+            "update_url": "https://raw.githubusercontent.com/jobisoft/permission/main/update.json",
             "strict_min_version": "78.0"
         }
     },
