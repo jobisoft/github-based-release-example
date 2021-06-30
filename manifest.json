@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "permissions",
-    "version": "1.0",
+    "version": "1.1",
     "author": "John",
     "update_url": "https://raw.githubusercontent.com/jobisoft/permission/main/update.json",
     "applications": {
@@ -11,5 +11,6 @@
         }
     },
     "permissions": [
+        "accountsRead"
     ]
 }
