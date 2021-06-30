@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "permissions",
+    "version": "1.0",
+    "author": "John",
+    "update_url": "https://raw.githubusercontent.com/jobisoft/permission/main/update.json",
+    "applications": {
+        "gecko": {
+            "id": "permissions@jobisoft.de",
+            "strict_min_version": "78.0"
+        }
+    },
+    "permissions": [
+    ]
+}
