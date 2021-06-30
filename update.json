@@ -4,7 +4,7 @@
       "updates": [
         { "version": "1.1",
           "update_info_url": "https://github.com/jobisoft/permission/releases",
-          "update_link": "https://raw.githubusercontent.com/jobisoft/permission/main/addon_1.1.xpi",
+          "update_link": "https://github.com/jobisoft/permission/releases/download/v1.1/addon_v1.1.xpi",
           "applications": {
             "gecko": { "strict_min_version": "78.0" } } }
       ]
