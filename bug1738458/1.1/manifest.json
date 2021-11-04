@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Add-on for Bug 1738458",
+    "version": "1.1",
+    "author": "John",
+    "applications": {
+        "gecko": {
+            "id": "bug1738458@jobisoft.de",
+            "update_url": "https://raw.githubusercontent.com/jobisoft/github-based-release-example/updates/update.json",
+            "strict_min_version": "91.0"
+        }
+    }
+}
